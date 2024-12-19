@@ -1,0 +1,14 @@
+
+1734594003747:::ffff:127.0.0.1 GET: /api/users
+
+1734594033020:::ffff:127.0.0.1 POST: /api/users
+
+1734594044305:::ffff:127.0.0.1 POST: /api/users
+
+1734594062108:::ffff:127.0.0.1 POST: /api/users
+
+1734594069485:::ffff:127.0.0.1 GET: /api/users
+
+1734594100564:::ffff:127.0.0.1 DELETE: /api/users/6763ce0eb161c9ce37965c0e
+
+1734594107756:::ffff:127.0.0.1 GET: /api/users
